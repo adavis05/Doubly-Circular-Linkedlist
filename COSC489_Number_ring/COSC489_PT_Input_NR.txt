@@ -1,0 +1,26 @@
+Initialize the ring with: 
+1 5 3 6 4 2 
+insert 8
+print
+insert 7
+print
+append 9
+print
+delete
+print
+jump 4
+print
+jump -4
+print
+move 8
+print
+move -8
+print
+sort
+print
+move 17
+print
+sort
+print
+jump 25
+print
